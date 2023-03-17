@@ -1,0 +1,17 @@
+
+Input[type="text"], textarea {
+
+    background-color :transparent; 
+    font-size: 25px;
+    color: white;
+    border:none;
+    border-bottom: 1px solid white;
+    width: 30em;
+    padding-top: 2rem;
+  }
+
+  button { 
+    font-size: 25px;
+    background-color: transparent; 
+    border: none;
+  }
